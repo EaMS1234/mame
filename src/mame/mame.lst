@@ -50390,3 +50390,8 @@ iq151
 
 @source:zvt/pp01.cpp
 pp01
+
+@source:computador_8bits/56k.cpp
+8bits_56k
+8bits_32k
+
